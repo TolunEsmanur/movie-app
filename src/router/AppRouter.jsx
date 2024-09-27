@@ -20,7 +20,7 @@ const AppRouter = () => {
         <Route path="/details/:movieId" element={<MovieDetail />}/>
         </Route>
       </Routes>
-      </>
+    </>
   );
 }
 
